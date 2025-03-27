@@ -1,9 +1,7 @@
 \name{Calc.Basal.Crop.Coeff}
 \alias{Calc.Basal.Crop.Coeff}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
-%%  ~~function to do ... ~~
-}
+\title{Calculate Basal Crop Coefficient for a Given Crop Layer}
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
